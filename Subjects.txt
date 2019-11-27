@@ -1,0 +1,24 @@
+programming
+Discrete Math
+Theory of Probability and Mathematical Statistics
+calculation methods
+computer architecture
+basics of computer graphics
+algorithms and data structures
+computational geometry and computer graphics
+organization and processing of electronic information
+data analysis
+corporate information systems platforms
+information networks
+operating systems and system programming
+optimization methods and operations research
+object-oriented analysis and design
+databases and information systems
+modern design tools
+modeling of socio-economic processes
+intelligent information systems 
+management information technology
+graph theory 
+programming and support for web applications 
+parallel and distributed computing
+control theory
